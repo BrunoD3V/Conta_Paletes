@@ -1,9 +1,12 @@
 <resources>
     <string name="app_name">Conta Paletes</string>
-    <string name="conta_paletes">Paletes Armazem</string>
+    <string name="conta_paletes">Paletes</string>
     <string name="icone_menu">Icone Menu</string>
     <string name="nova_palete">nova_palete</string>
     <string name="procurar_palete">procurar_palete</string>
     <string name="listar_paletes">listar_paletes</string>
-    <string name="n_mero_palete">Número Palete</string>
+    <string name="n_mero_palete">Número da Palete</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="img_new_palete">img_new_palete</string>
+    <string name="adicionar_palete">Adicionar Palete</string>
 </resources>
